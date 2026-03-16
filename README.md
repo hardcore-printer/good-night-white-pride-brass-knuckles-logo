@@ -7,7 +7,6 @@ The logo is available in black and white. Files are available as vectors (.ai, .
 ## Project info
 
 Creator: Marco Pasquato  
-Link to github repository: [Github](https://github.com/mpasquato/good-night-white-pride-brass-knuckles-logo)  
 Original date of creation: 28/09/2022  
 License: CC BY 4.0 DEED (see LICENSE file)  
 Attributions: see ATTRIBUTIONS file
